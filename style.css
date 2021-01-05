@@ -2,10 +2,15 @@ body{
     margin:0;
     font-family: 'Poppins', sans-serif;
 }
-.box{
+#nav{
     width: 40%;
-    margin: 0 auto;
-    box-shadow: 10px 10px 40px purple;
+    float: right;
+}
+#nav ul li{
+    list-style: none;
+    display: inline;
+    padding-right: 15px;
+    font-weight: 700;
 }
 section{
     height: 550px;
@@ -94,16 +99,16 @@ h1{
     float: right;
     margin-left: 5%;
 }
-footer{
+#footer{
     text-align: center;
 
 }
-footer ul li{
+#footer ul li{
     list-style: none;
     display: inline;
     margin:10px;
 }
-footer ul li img{
+#footer ul li img{
     height: 50px;
     width: 50px;
 }
