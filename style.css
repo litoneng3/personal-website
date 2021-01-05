@@ -98,12 +98,12 @@ footer{
     text-align: center;
 
 }
-ul li{
+footer ul li{
     list-style: none;
     display: inline;
     margin:10px;
 }
-ul li img{
+footer ul li img{
     height: 50px;
     width: 50px;
 }
