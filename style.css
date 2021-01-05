@@ -7,6 +7,7 @@ body{
     float: right;
     overflow: hidden;
     height: 100px;
+    padding: 0;;
 }
 #nav ul li{
     list-style: none;
@@ -16,6 +17,7 @@ body{
 }
 section{
     height: 550px;
+    padding: 40px;
 }
 h1{
     font-size: 50px;
@@ -49,7 +51,7 @@ h1{
 #card{
     width: 100%;
     margin: 0 auto;
-    background-color: #E5E5E5;
+    background-color: #f8f6f6;
     padding: 80px 0 200px;;
 }
 #card-div{
