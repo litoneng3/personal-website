@@ -5,6 +5,8 @@ body{
 #nav{
     width: 40%;
     float: right;
+    overflow: hidden;
+    height: 100px;
 }
 #nav ul li{
     list-style: none;
