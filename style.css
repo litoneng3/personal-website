@@ -75,6 +75,17 @@ h1{
 .card-img{
     width: 100%;
 }
+.services{
+    text-align: center;
+    width: 80%;
+    margin:0 auto;
+}
+.services-part{
+    background-color: purple;
+    color:white;
+    
+    
+}
 .inquiry{
     width:80%;
     margin:0 auto;
